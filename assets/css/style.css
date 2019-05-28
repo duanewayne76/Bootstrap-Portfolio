@@ -4,6 +4,7 @@ body {
     line-height: 34px;
     color: #777777;
     background: url("../images/concrete_seamless.png");
+
   }
   
   
@@ -116,12 +117,12 @@ body {
     height: 50px;
   }
   
-  h3, h2 {
+  /*h3, h2 {
     padding-bottom: 20px;
     margin-bottom: 15px;
     line-height: 22px;
     border-bottom: 2px solid #eeeeee;
-  }
+  }*/
   
   /* main */
   
@@ -179,7 +180,7 @@ body {
     width: 200px;
     height: auto;
     margin-top: 10px;
-    margin-right: 25px;
+    /*margin-right: 25px;
   }
   
   /* contact page */
@@ -227,7 +228,13 @@ body {
   @media screen (max-width: 992px) {
     .navbar-expand-lg .navbar-nav .nav-link {
     float: left;
-    
-  }
+    }
+
+  
+    }
+
+
+
+  
 }
   
