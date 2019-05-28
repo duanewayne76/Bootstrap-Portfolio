@@ -96,6 +96,14 @@ body {
   nav a:first-child {
     border-left: 0 none;
   }
+
+  .bg-light {
+    background-color: white!important;
+}
+
+.btn {
+  border-radius: 0rem;
+}
   
   /* footer */
   
